@@ -1,0 +1,52 @@
+Maps:
+  world:
+    Locations:
+      Lobby:
+        x: -543.5
+        y: 4.0
+        z: 801.5
+      Spawns:
+        Red:
+          x: -544.5
+          y: 4.0
+          z: 810.5
+        White:
+          x: -542.5
+          y: 4.0
+          z: 810.5
+      Shops:
+        Red:
+          x: -539.5
+          y: 4.0
+          z: 817.5
+        White:
+          x: -545.5
+          y: 4.0
+          z: 817.5
+      Chests:
+        Coal1:
+          x: -527.0
+          y: 4.0
+          z: 818.0
+        Coal2:
+          x: -524.0
+          y: 4.0
+          z: 818.0
+        Emerald1:
+          x: -527.0
+          y: 4.0
+          z: 809.0
+        Emerald2:
+          x: -524.0
+          y: 4.0
+          z: 809.0
+      Deposit:
+        Red:
+          x: -552.0
+          y: 4
+          z: 807.0
+        White:
+          x: -552
+          y: 4
+          z: 801
+Active: world

@@ -1,0 +1,26 @@
+name: PiratePlunder
+main: net.collat.pirateplunder.Main
+version: 0.2.9
+Author: TheMGRF
+description: Pirate Plunder minigame for CollatNet.
+depend: [CollatGameTemplate, CollatPlayer, CollatScoreboards, HolographicDisplays]
+commands:
+  team:
+    aliases: [teams]
+    description: Join one of the four teams
+    usage: /<command> <team>
+  red:
+    description: Join red team!
+    usage: /<command>
+  white:
+    description: Join purple team!
+    usage: /<command>
+  sky:
+    description: Set sky colour!
+    usage: /<command> <int>
+  storm:
+    description: Storm
+    usage: /<command>
+  pp:
+    description: Config options
+    usage: /<command> <reload/save>

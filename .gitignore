@@ -1,0 +1,5 @@
+target/
+out/
+.idea/
+PiratePlunder.iml
+dependency-reduced-pom.xml
